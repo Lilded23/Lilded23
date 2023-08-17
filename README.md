@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJoZ3J0ejJwY3N0ZTd3eDJ4Y3Qxc3JkbTBhb29rMXFqcnRuOXo0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif">
+<img src="https://www.qualitydevs.com/wp-content/uploads/2017/12/desarrollador-1288x724.jpg">
 <h3 align="center">A passionate Full Stack developer from Argentina. I am 25 years old, since I was a child I have always loved this world</h3>
 
 - 👨‍💻 All of my projects are available at [Proximamente](Proximamente)
