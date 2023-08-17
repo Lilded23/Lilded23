@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack developer from Argentina. I am 25 years old, since I was a child I have always loved this world</h3>
 
 - 👨‍💻 All of my projects are available at [Proximamente](Proximamente)
 
